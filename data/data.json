@@ -14,5 +14,13 @@
         "website": "https://some-random-api.ml/",
         "github": "",
         "author": "Some Random Api"
+    },
+    {
+        "title": "moviedb",
+        "version": "3.0.0",
+        "description": "The best api to find films",
+        "website": "https://developers.themoviedb.org/3/getting-started/introduction",
+        "github": "",
+        "author": "MovieDB"
     }
 ]
