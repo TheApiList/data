@@ -22,5 +22,13 @@
         "website": "https://developers.themoviedb.org/3/getting-started/introduction",
         "github": "",
         "author": "MovieDB"
+    },
+    {
+        "title": "Polish Meme",
+        "version": "1.0.0",
+        "description": "Api with polish memes created by Lambda Bot author.",
+        "website": "https://api.lambdabot.xyz/",
+        "github": "",
+        "author": "Aleksio"
     }
 ]
