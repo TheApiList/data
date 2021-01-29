@@ -12,4 +12,7 @@
   5. GitHub (optional)<br>
   6. Version
   </p>
+  <br>
+  <br>
+  <p>You can write issue only in english or polish</p>
  </div>
