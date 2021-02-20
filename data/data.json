@@ -5,7 +5,9 @@
         "description": "Displays random reddit posts",
         "website": "https://randomredditimage.herokuapp.com/",
         "github": "",
-        "author": "Maksiooo"
+        "author": "Maksiooo",
+        "premium": "true",
+        "verified": "true"
     },
     {
         "title": "Some Random Api",
@@ -13,7 +15,9 @@
         "description": "A lot of apis in one page",
         "website": "https://some-random-api.ml/",
         "github": "",
-        "author": "Some Random Api"
+        "author": "Some Random Api",
+        "premium": "false",
+        "verified": "false"
     },
     {
         "title": "moviedb",
@@ -21,7 +25,9 @@
         "description": "The best api to find films",
         "website": "https://developers.themoviedb.org/3/getting-started/introduction",
         "github": "",
-        "author": "MovieDB"
+        "author": "MovieDB",
+        "premium": "false",
+        "verified": "false"
     },
     {
         "title": "Polish Meme",
@@ -29,7 +35,9 @@
         "description": "Api with polish memes created by Lambda Bot author.",
         "website": "https://api.lambdabot.xyz/",
         "github": "",
-        "author": "Aleksio"
+        "author": "Aleksio",
+        "premium": "false",
+        "verified": "false"
     },
     {
         "title": "Monkedev Api",
@@ -37,6 +45,8 @@
         "description": "An API developed MonkeDev, That contains image manipulation, animal facts, animal images/gifs, and much more yet to come.",
         "website": "https://api.monke.vip/",
         "github": "https://github.com/MonkeDev/API/",
-        "author": "MonkeDev"
+        "author": "MonkeDev",
+        "premium": "false",
+        "verified": "false"
     }
 ]
