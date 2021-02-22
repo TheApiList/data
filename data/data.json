@@ -43,7 +43,7 @@
         "title": "Monkedev Api",
         "version": "1.0.0",
         "description": "An API developed MonkeDev, That contains image manipulation, animal facts, animal images/gifs, and much more yet to come.",
-        "website": "https://api.monke.vip/",
+        "website": "https://api.monkedev.com/",
         "github": "https://github.com/MonkeDev/API/",
         "author": "MonkeDev",
         "premium": "false",
