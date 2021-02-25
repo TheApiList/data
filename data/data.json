@@ -48,5 +48,15 @@
         "author": "MonkeDev",
         "premium": "false",
         "verified": "false"
+    },
+    {
+        "title": "72API",
+        "version": "1.0.0",
+        "description": "Description was not provided.",
+        "website": "https://www.72dev.cf/api",
+        "github": "",
+        "author": "72",
+        "premium": "false",
+        "verified": "false"
     }
 ]
