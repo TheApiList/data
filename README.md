@@ -25,8 +25,8 @@
   <p>How verification issue must look like?</p>
   
   <p>
-  1. URL to your api.
-  2. Something About You (you can send some you projects or your portfolio)
+  1. URL to your api.<br>
+  2. Something About You (you can send some your projects or your portfolio)
   </p>
   
   </div>
