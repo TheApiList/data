@@ -17,6 +17,7 @@
   <p>You can write issue only in english or polish</p>
  </div>
  
+ <div align="center">
  <h1>Verified Api Developers</h1>
 <p>How to get verified?</p>
   <p>Create Issue</p>
@@ -27,3 +28,5 @@
   1. URL to your api.
   2. Something About You (you can send some you projects or your portfolio)
   </p>
+  
+  </div>
