@@ -7,7 +7,8 @@
         "github": "",
         "author": "Maksiooo",
         "premium": "true",
-        "verified": "true"
+        "verified": "true",
+        "authorAvatar": "https://i.imgur.com/fSgFV10.gif"
     },
     {
         "title": "Some Random Api",
@@ -17,7 +18,8 @@
         "github": "",
         "author": "Some Random Api",
         "premium": "false",
-        "verified": "false"
+        "verified": "false",
+        "authorAvatar": "https://i.some-random-api.ml/logo.png"
     },
     {
         "title": "moviedb",
@@ -27,7 +29,8 @@
         "github": "",
         "author": "MovieDB",
         "premium": "false",
-        "verified": "false"
+        "verified": "false",
+        "authorAvatar": "https://pbs.twimg.com/profile_images/1243623122089041920/gVZIvphd.jpg"
     },
     {
         "title": "Polish Meme",
@@ -37,7 +40,8 @@
         "github": "",
         "author": "Aleksio",
         "premium": "false",
-        "verified": "false"
+        "verified": "false",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/62609477?s=460&u=583635c69360ae5f7156cef3cc12685714aa9182&v=4"
     },
     {
         "title": "Monkedev Api",
@@ -47,7 +51,8 @@
         "github": "https://github.com/MonkeDev/API/",
         "author": "MonkeDev",
         "premium": "false",
-        "verified": "false"
+        "verified": "false",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/67177667?s=460&u=eaa141d16235899bc4351efa21187cf9e1bb0936&v=4"
     },
     {
         "title": "72API",
@@ -57,6 +62,7 @@
         "github": "",
         "author": "72",
         "premium": "false",
-        "verified": "false"
+        "verified": "false",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/75842858?s=460&u=130e977fc51cc3350edd367cc69d26522c483800&v=4"
     }
 ]
