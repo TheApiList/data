@@ -64,5 +64,16 @@
         "premium": "false",
         "verified": "false",
         "authorAvatar": "https://avatars.githubusercontent.com/u/75842858?s=460&u=130e977fc51cc3350edd367cc69d26522c483800&v=4"
+    },
+      {
+        "title": "Filipek Api",
+        "version": "1.0.0",
+        "description": "Some random api",
+        "website": "http://api.filipek.ga",
+        "github": "",
+        "author": "Filipek TM",
+        "premium": "false",
+        "verified": "false",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/36982628?v=4"
     }
 ]
